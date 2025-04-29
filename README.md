@@ -45,7 +45,7 @@
 
 ### 💡 Quote
 
-> "Code is not just code — it's a conversation with the future."  
-> — *Someone who loves clean architecture* 😎
+> "Testing leads to failure, and failure leads to understanding."  
+> — *Burt Rutan* 😎
 
 ---
